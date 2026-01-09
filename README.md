@@ -76,7 +76,14 @@ Track growth using running totals and YTD metrics
 
 Monitor monthly and yearly sales trends
 
-📸 Dashboard Preview
+# 📸 Dashboard Preview
+
+### Sales Performance & Customer Analysis
+![Sales Analysis Dashboard 1](sales_analysis_1.png)
+
+### Time Intelligence & Trend Analysis
+![Sales Analysis Dashboard 2](sales_analysis_2.png)
+
 
 
 
